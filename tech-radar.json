@@ -46,10 +46,10 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            "description": "JavaScript is widely and actively used in ventures"
           }
         ],
-        "url": "#",
+        "url": "https://www.javascript.com/",
         "key": "javascript",
         "id": "javascript",
         "title": "JavaScript",
@@ -61,13 +61,58 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+            "description": "TypeScript is widely and actively used in ventures"
           }
         ],
-        "url": "#",
+        "url": "https://www.typescriptlang.org/",
         "key": "typescript",
         "id": "typescript",
         "title": "TypeScript",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "use",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Python is currently used for machine learning"
+          }
+        ],
+        "url": "https://www.python.org/",
+        "key": "python",
+        "id": "python",
+        "title": "Python",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "use",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Go is currently used for some ventures"
+          }
+        ],
+        "url": "https://go.dev/",
+        "key": "go",
+        "id": "go",
+        "title": "Golang",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "assess",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Dart is under assessment"
+          }
+        ],
+        "url": "https://dart.dev/",
+        "key": "dart",
+        "id": "dart",
+        "title": "Dart",
         "quadrant": "languages"
       },
       {
