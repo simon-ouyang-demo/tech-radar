@@ -184,7 +184,7 @@
         "key": "infrastructure-as-code",
         "id": "infrastructure-as-code",
         "title": "Infrastructure-as-code",
-        "quadrant": "process"
+        "quadrant": "infrastructure"
       },
       {
         "timeline": [
