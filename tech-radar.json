@@ -187,21 +187,6 @@
       {
         "timeline": [
           {
-            "moved": 0,
-            "ringId": "use",
-            "date": "2020-08-06T00:00:00.000Z",
-             "description": "Infrastructure as Code is widely used for DevOps"
-          }
-        ],
-        "url": "https://www.hashicorp.com/resources/what-is-infrastructure-as-code",
-        "key": "infrastructure-as-code",
-        "id": "infrastructure-as-code",
-        "title": "Infrastructure-as-code",
-        "quadrant": "infrastructure"
-      },
-      {
-        "timeline": [
-          {
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z"
           }
