@@ -171,7 +171,20 @@
         "title": "Docs-like-code",
         "quadrant": "process"
       },
-       {
+      {
+        "timeline": [
+          {
+            "ringId": "hold",
+            "date": "2020-08-06T00:00:00.000Z"
+          }
+        ],
+        "url": "#",
+        "key": "force-push",
+        "id": "force-push",
+        "title": "Force push to master",
+        "quadrant": "process"
+      },
+      {
         "timeline": [
           {
             "moved": 0,
@@ -185,19 +198,6 @@
         "id": "infrastructure-as-code",
         "title": "Infrastructure-as-code",
         "quadrant": "infrastructure"
-      },
-      {
-        "timeline": [
-          {
-            "ringId": "hold",
-            "date": "2020-08-06T00:00:00.000Z"
-          }
-        ],
-        "url": "#",
-        "key": "force-push",
-        "id": "force-push",
-        "title": "Force push to master",
-        "quadrant": "process"
       },
       {
         "timeline": [
